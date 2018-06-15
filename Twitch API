@@ -1,0 +1,73 @@
+<header>
+  <div class= "twitch logo" align = "middle">
+    <img src="https://s3.amazonaws.com/files.enjin.com/294216/News_images/Twitch.gif">
+  </div>
+       <div class = "container">
+     <div id= "header" class= "text-center">
+       <h1></h1>
+   </div>
+<div>
+<h1>
+  <div class="row">
+  <div class="col-md-4">
+    Logo:
+  </div>
+  <div class="col-md-4">
+    Display Name:
+  </div>
+  <div class="col-md-4" id= "status">
+    Status:
+    </div>
+  </h1>
+  
+  <h2>  
+    <div class="row">
+  <div class="col-md-4">
+   <img id=fccImage src="https://avatars0.githubusercontent.com/u/9892522?v=4&s=400" width="40" height="40">
+  </div>
+  <div class="col-md-4">
+    <a href= "https://www.twitch.tv/freecodecamp" target= "blank">
+    <p1> freeCodeCamp </p1>
+    </a>
+      </div>
+    <div class="col-md-4">
+      <h3 id= "fccStatus"></h3>
+    </div>
+    </a>
+  </div>
+  </h2>
+   
+  <h3>  
+    <div class="row">
+  <div class="col-md-4">
+   <img id=rlImage src="https://steamuserimages-a.akamaihd.net/ugc/842588389921812273/AA8CF2E37B2AF997B5B19678D5235C111410479E/" width="40" height="40">
+  </div>
+  <div class="col-md-4">
+    <a href= "https://www.twitch.tv/directory/game/Rocket%20League" target= "blank">
+    <p1> Rocket League </p1>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <p3 id= "rlStatus"></p3>
+    </div>
+ </h3>
+  
+ <h4>  
+    <div class="row">
+  <div class="col-md-4">
+   <img id=mglImage src="https://s.blogcdn.com/massively.joystiq.com/media/2013/07/casestudy042312mlg-450x340.jpg" width="40" height="40">
+  </div>
+  <div class="col-md-4">
+    <a href= "https://www.twitch.tv/mlg" target= "blank">
+    <p1> MGL </p1>
+    </a>
+  </div>
+  <div class="col-md-4">
+    <p3 id= "mlgStatus"></p3>
+    </div>
+</h4>
+
+   </div>
+  
+    </header>
+  
